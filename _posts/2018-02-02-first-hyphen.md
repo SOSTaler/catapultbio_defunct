@@ -3,10 +3,11 @@ layout: post
 title: 'First Hyphen'
 ---
 
-### Image
+### Somewhere on La Gomera
 
-![placeholder](http://placehold.it/800x400 "Large example image")
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+![placeholder](/pic/DSCI0252s.JPG "pic")
+
+![placeholder](/pic/DSCI0253s.JPG "pic")
 
 -----
 
