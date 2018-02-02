@@ -3,6 +3,9 @@ layout: post
 title: 'First Hyphen'
 ---
 ### Somewhere in the Jura
+![placeholder](/pic/DSCI0353s.JPG "unknown")
+
+![placeholder](/pic/DSCI0354s.JPG "unknown")
 
 ![placeholder](/pic/DSCI0197s.JPG "treetrunk")
 
