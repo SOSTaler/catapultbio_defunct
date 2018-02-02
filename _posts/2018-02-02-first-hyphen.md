@@ -1,8 +1,9 @@
-
 ---
 layout: post
-title: First Hyphen
+title: 'First Hyphen'
 ---
+
+Some Green
 
 ### Image
 
