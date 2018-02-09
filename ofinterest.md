@@ -10,3 +10,4 @@ title: 'Of Interest'
 * [Omphalotus nidiformis](https://gluckspilze.com/Ghost-fungus-Omphalotus-nidiformis-pure-culture-Strain-No-900001)
 * [Omphalotus olearius](https://gluckspilze.com/Jack-o-Lantern-mushroom-Omphalotus-olearius-pure-culture-Strain-No-900002)
 * [Mycena clorophos](http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=386081&Fields=All)
+* [Panellus stipticus](https://www.pilzzucht-shop.de/pilzkulturen/pilzbrut/panellus-stipticus-leuchtpilze/#cc-m-product-10029170294)
