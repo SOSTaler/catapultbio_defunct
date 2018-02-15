@@ -20,4 +20,7 @@ title: 'Of Interest'
 * [Identification of 15 genetic loci associated with risk of major depression in individuals of European descent](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5706769/)
 * [Biological Insights From 108 Schizophrenia-Associated Genetic Loci](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4112379/)
 
-* Did insects "create" angiosperms ?
+* Did insects "create" angiosperms?  How did the insect/angiosperm co-evolution work exactly?
+
+
+* ["Open Human" plasmid](http://www.the-odin.com/open-human-plasmid/) from The-ODIN.com
