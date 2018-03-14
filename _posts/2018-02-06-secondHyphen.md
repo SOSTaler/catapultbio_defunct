@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Second Hyphen'
+title: 'Second Hypha'
 ---
 ### Somewhere in the Jura
 ![placeholder](/pic/DSCI0070s.JPG "Path")
