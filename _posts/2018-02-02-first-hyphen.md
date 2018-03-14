@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'First Hyphen'
+title: 'First Hypha'
 ---
 ### Somewhere in the Jura
 ![placeholder](/pic/DSCI0354s.JPG "unknown")
