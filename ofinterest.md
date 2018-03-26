@@ -26,5 +26,5 @@ title: 'Of Interest'
 
 * ["Open Human" plasmid](http://www.the-odin.com/open-human-plasmid/) from The-ODIN.com
 
-* https://www.ozyme.fr/recherche/recherche-produits.asp?Type=recherche&mode=tous-les-mots  
-  search for "transformation"
+* https://www.ozyme.fr
+  search for "transformation" to see chemical yeast/bacteria transformation kits.
