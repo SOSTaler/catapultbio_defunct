@@ -34,3 +34,6 @@ title: 'Of Interest'
 ** [Germany](http://www.dsmz.de/)
 ** France: [Pricing](https://www6.inra.fr/cirm/CFBP-Bacteries-associees-aux-Plantes/Comment-commander-Tarifs-2018)
 ** France: [Strain search](http://catalogue-cfbp.inra.fr/recherche.php)
+
+*Ordering Fungi(filamentous)
+** France: [Pricing and Strain search](https://www6.inra.fr/cirm/Champignons-Filamenteux/Catalogue-de-souches)
