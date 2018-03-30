@@ -29,11 +29,12 @@ title: 'Of Interest'
 * https://www.ozyme.fr
   search for "transformation" to see chemical yeast/bacteria transformation kits.
 
-* Ordering bacteria:
-** International list of repositories: [bacterio.net](http://www.bacterio.net/-links.html)
-** [Germany](http://www.dsmz.de/)
-** France: [Pricing](https://www6.inra.fr/cirm/CFBP-Bacteries-associees-aux-Plantes/Comment-commander-Tarifs-2018)
-** France: [Strain search](http://catalogue-cfbp.inra.fr/recherche.php)
+* Ordering Bacteria:
+- International list of repositories: [bacterio.net](http://www.bacterio.net/-links.html)
+- Germany [Pricing and strain search](http://www.dsmz.de/)
+- France: [Pricing](https://www6.inra.fr/cirm/CFBP-Bacteries-associees-aux-Plantes/Comment-commander-Tarifs-2018)
+- France: [Strain search](http://catalogue-cfbp.inra.fr/recherche.php)
 
-*Ordering Fungi(filamentous)
-** France: [Pricing and Strain search](https://www6.inra.fr/cirm/Champignons-Filamenteux/Catalogue-de-souches)
+* Ordering Fungi(filamentous):
+- Germany [Pricing and strain search](http://www.dsmz.de/)
+- France: [Pricing and Strain search](https://www6.inra.fr/cirm/Champignons-Filamenteux/Catalogue-de-souches)
