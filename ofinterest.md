@@ -32,8 +32,7 @@ title: 'Of Interest'
 * Ordering Bacteria:
 1. International list of repositories: [bacterio.net](http://www.bacterio.net/-links.html)
 2. Germany [Pricing and strain search](http://www.dsmz.de/)
-3. France: [Pricing](https://www6.inra.fr/cirm/CFBP-Bacteries-associees-aux-Plantes/Comment-commander-Tarifs-2018)
-4. France: [Strain search](http://catalogue-cfbp.inra.fr/recherche.php)
+3. France: [Pricing](https://www6.inra.fr/cirm/CFBP-Bacteries-associees-aux-Plantes/Comment-commander-Tarifs-2018) - [Strain search](http://catalogue-cfbp.inra.fr/recherche.php)
 
 * Ordering Fungi(filamentous):
 1. Germany [Pricing and strain search](http://www.dsmz.de/)
