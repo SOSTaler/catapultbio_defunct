@@ -36,3 +36,5 @@ title: 'Of Interest'
 * Ordering Fungi(filamentous):
 1. Germany [Pricing and strain search](http://www.dsmz.de/)
 2. France: [Pricing and Strain search](https://www6.inra.fr/cirm/Champignons-Filamenteux/Catalogue-de-souches)
+
+![placeholder](/pic/phbs.png "E.coli transforming poo to polyhydroxybutyrate")
