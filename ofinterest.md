@@ -37,5 +37,5 @@ title: 'Of Interest'
 1. Germany [Pricing and strain search](http://www.dsmz.de/)
 2. France: [Pricing and Strain search](https://www6.inra.fr/cirm/Champignons-Filamenteux/Catalogue-de-souches)
 
-* ["Astroplastic"](/doc/288746.full.pdf)
-![placeholder](/pic/phbs.png "E.coli transforming poo to polyhydroxybutyrate")
+* ["Astroplastic"](/doc/288746.full.pdf) </br>
+![placeholder](/pic/phbs.png "E.coli transforming poo to polyhydroxybutyrate for 3D printing")
