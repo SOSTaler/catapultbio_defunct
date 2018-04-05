@@ -41,6 +41,6 @@ title: 'Of Interest'
 ![placeholder](/pic/phbs.png "E.coli transforming poo to polyhydroxybutyrate for 3D printing")
 
 * DNA sequencing and synthesis, state of the art (Early 2018)
-1.0 Synthesis (0.25 EUR/base): [IDT DNA - Belgium](https://eu.idtdna.com/Site/Order/oligoentry)
-1.1 Synthesis@home (>8000$):  [Kilobaser - Austria](http://www.kilobaser.com/)
-2.0 Sequencing@home (1000$!): [Oxford Nanopore](https://nanoporetech.com/)
+1. Synthesis (0.25 EUR/base): [IDT DNA - Belgium](https://eu.idtdna.com/Site/Order/oligoentry)
+1. Synthesis@home (>8000$):  [Kilobaser - Austria](http://www.kilobaser.com/)
+2. Sequencing@home (1000$!): [Oxford Nanopore](https://nanoporetech.com/)
