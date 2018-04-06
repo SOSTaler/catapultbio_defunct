@@ -47,4 +47,4 @@ title: 'Of Interest'
 2. Sequencing@home (1000$!): [Oxford Nanopore - UK](https://nanoporetech.com/)
 
 
-** [iGEM Transforming filamentous fungi](http://2013.igem.org/Team:Cornell/project)
+* [iGEM Transforming filamentous fungi](http://2013.igem.org/Team:Cornell/project)
