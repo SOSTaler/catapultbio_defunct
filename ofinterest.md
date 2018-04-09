@@ -20,7 +20,7 @@ title: 'Of Interest'
 * [Shared molecular neuropathology across major psychiatric disorders parallels polygenic overlap](http://science.sciencemag.org/content/359/6376/693)
 * [Identification of 15 genetic loci associated with risk of major depression in individuals of European descent](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5706769/)
 
-* Did insects "create" angiosperms?  How did the insect/angiosperm co-evolution work exactly?
+* Did insects "create" angiosperms?  [Article](https://www.nytimes.com/1993/08/03/science/long-before-flowering-plants-insects-evolved-ways-to-use-them.html)
 
 
 * ["Open Human" plasmid](http://www.the-odin.com/open-human-plasmid/) from The-ODIN.com
