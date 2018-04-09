@@ -20,7 +20,7 @@ title: 'Of Interest'
 * [Shared molecular neuropathology across major psychiatric disorders parallels polygenic overlap](http://science.sciencemag.org/content/359/6376/693)
 * [Identification of 15 genetic loci associated with risk of major depression in individuals of European descent](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5706769/)
 
-* Did insects "create" angiosperms?  [Article](https://www.nytimes.com/1993/08/03/science/long-before-flowering-plants-insects-evolved-ways-to-use-them.html)
+* Did angiosperms "use" insects ?  [Article](https://www.nytimes.com/1993/08/03/science/long-before-flowering-plants-insects-evolved-ways-to-use-them.html).  Is the relation between leafcutter ants and the fungus a symbiosis or is the fungus parasitizing the ants?
 
 
 * ["Open Human" plasmid](http://www.the-odin.com/open-human-plasmid/) from The-ODIN.com
