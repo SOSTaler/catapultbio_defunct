@@ -50,3 +50,5 @@ title: 'Of Interest'
 * [iGEM Transforming filamentous fungi](http://2013.igem.org/Team:Cornell/project) - Either by protoplasting or with Agrobacterium T.
 
 * [In-vivo bacterial full 3-bit adder](/doc/303032.full.pdf)
+
+* [Einfache Isolierung von biolumieszenten Bakterien aus Meeresfischen](http://www.pmbio.icbm.de/mikrobiologischer-garten/de/deleu01.htm)
