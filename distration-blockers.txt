@@ -1,5 +1,6 @@
 
-Insert all the below into uBlock
+Insert all the below into uBlock "myFilter"
+=================================================
 
 ! Blocks ALL web.de attention-spam - on-top of login
 web.de##.wrapper-center:nth-of-type(3) > .wrapper-border > .wrapper-indent
