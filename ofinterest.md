@@ -52,4 +52,4 @@ title: 'Of Interest'
 * [In-vivo bacterial full 3-bit adder](/doc/303032.full.pdf)
 
 * [Einfache Isolierung von biolumieszenten Bakterien aus Meeresfischen](http://www.pmbio.icbm.de/mikrobiologischer-garten/de/deleu01.htm)
-* [Stretchable living materials hosting programmed cells](/doc/2200.full.pdf)
+* [Stretchable living materials hosting programmed cells](/doc/2200.full.pdf), [-supporting info-](/doc/2200-supportingInfo-pnas.201618307SI.pdf)
