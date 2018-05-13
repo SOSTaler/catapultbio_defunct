@@ -57,3 +57,4 @@ title: 'Of Interest'
 * [Database of Ageing-Related Genes](http://genomics.senescence.info/genes/)
 
 * [Synthetic Morphogenesis](http://morsutlab.usc.edu/research/synthetic-morphogenesis/)
+* [Light-Oxygen-Voltage-sensing domain](https://en.wikipedia.org/wiki/Light-oxygen-voltage-sensing_domain)
