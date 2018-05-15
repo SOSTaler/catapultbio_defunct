@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'DIY Genetic Engineering of Frogs'
+title: 'DIY Frog Genetic Engineering'
 ---
-### Somewhere in the Jura
+### Genetic Engineering Kit from the-odin.com
 ![placeholder](/pic/DSCI0070s.JPG "Path")
 
 ![placeholder](/pic/DSCI0083s.JPG "Distel")
