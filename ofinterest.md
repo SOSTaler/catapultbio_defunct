@@ -61,4 +61,4 @@ title: 'Of Interest'
 
 * [Plant callus induction i.e. from leaves, using MS agar plus auxins and cytokinins together](http://www.rroij.com/open-access/effect-of-plant-growth-regulators-oncallus-induction-in-physalis-minima-linn-.php?aid=47192), subsequent [callus](https://en.wikipedia.org/wiki/Callus_(cell_biology)) cultivation and transformation with Agrobacterium, then regeneration of plant from callus. [Auxins(2,4–Diphenoxy acetic acid; Naphthalene-3-acetic acid) and cytokinins(6-Benzyl amino purine; Kinetin) are available from the-odin.com](http://www.the-odin.com/plants/)
 
-* [RNA from Trained Aplysia Can Induce an Epigenetic Engram for Long-Term Sensitization in Untrained Aplysia]()
+* [RNA from Trained Aplysia Can Induce an Epigenetic Engram for Long-Term Sensitization in Untrained Aplysia](/doc/ENEURO.0038-18.2018.full.pdf)
