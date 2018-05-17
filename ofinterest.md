@@ -46,6 +46,8 @@ title: 'Of Interest'
 1. Synthesis@home (>8000$):  [Kilobaser(Startup) - Austria](http://www.kilobaser.com/)
 2. Sequencing@home (1000$!): [Oxford Nanopore - UK](https://nanoporetech.com/)
 
+* [Plasmid Purification Kit (bacterial) ~ 4.0 EUR per prep](https://www.ozyme.fr/produits/zymopure-purification-plasmides.asp#/)
+
 
 * [iGEM Transforming filamentous fungi](http://2013.igem.org/Team:Cornell/project) - Either by protoplasting or with Agrobacterium T.
 
@@ -62,3 +64,4 @@ title: 'Of Interest'
 * [Plant callus induction i.e. from leaves, using MS agar plus auxins and cytokinins together](http://www.rroij.com/open-access/effect-of-plant-growth-regulators-oncallus-induction-in-physalis-minima-linn-.php?aid=47192), subsequent [callus](https://en.wikipedia.org/wiki/Callus_(cell_biology)) cultivation and transformation with Agrobacterium, then regeneration of plant from callus. [Auxins(2,4–Diphenoxy acetic acid; Naphthalene-3-acetic acid) and cytokinins(6-Benzyl amino purine; Kinetin) are available from the-odin.com](http://www.the-odin.com/plants/)
 
 * [RNA from Trained Aplysia Can Induce an Epigenetic Engram for Long-Term Sensitization in Untrained Aplysia](/doc/ENEURO.0038-18.2018.full.pdf)
+
