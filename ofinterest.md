@@ -46,9 +46,9 @@ title: 'Of Interest'
 1. Synthesis@home (>8000$):  [Kilobaser(Startup) - Austria](http://www.kilobaser.com/)
 2. Sequencing@home (1000$!): [Oxford Nanopore - UK](https://nanoporetech.com/)
 
-* Plasmid Purification Kit (bacterial) - Microcentrifuge required!!
+* Plasmid Purification Kit (bacterial) - Microcentrifuge required </br>
 1. [Ozyme.fr ~ 4.0 EUR for 10 preps](https://www.ozyme.fr/produits/zymopure-purification-plasmides.asp#/).
-2. [CarlRoth ~ 3.6 EUR for 10 preps, requires additional Ethanol and NaAc](https://www.carlroth.com/fr/fr/Produits-Chimiques/A-Z%2C-produits-chimiques/R/Roti%3Csup%3E%C2%AE%3C-sup%3E-Prep-Plasmide-MINI/Roti%3Csup%3E%C2%AE%3C-sup%3E-Prep-Plasmide-MINI/p/000000080000d57300050023_fr)
+2. [CarlRoth ~ 3.6 EUR for 10 preps, requires additional Ethanol(99%) and NaAc](https://www.carlroth.com/fr/fr/Produits-Chimiques/A-Z%2C-produits-chimiques/R/Roti%3Csup%3E%C2%AE%3C-sup%3E-Prep-Plasmide-MINI/Roti%3Csup%3E%C2%AE%3C-sup%3E-Prep-Plasmide-MINI/p/000000080000d57300050023_fr)
 
 
 * [iGEM Transforming filamentous fungi](http://2013.igem.org/Team:Cornell/project) - Either by protoplasting or with Agrobacterium T.
