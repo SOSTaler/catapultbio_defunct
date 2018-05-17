@@ -46,7 +46,7 @@ title: 'Of Interest'
 1. Synthesis@home (>8000$):  [Kilobaser(Startup) - Austria](http://www.kilobaser.com/)
 2. Sequencing@home (1000$!): [Oxford Nanopore - UK](https://nanoporetech.com/)
 
-* [Plasmid Purification Kit (bacterial) ~ 4.0 EUR per prep](https://www.ozyme.fr/produits/zymopure-purification-plasmides.asp#/)
+* Plasmid Purification Kit (bacterial) [Ozyme.fr ~ 4.0 EUR per prep](https://www.ozyme.fr/produits/zymopure-purification-plasmides.asp#/). Smallest kit has 10 preps. Need a microcentrifuge.
 
 
 * [iGEM Transforming filamentous fungi](http://2013.igem.org/Team:Cornell/project) - Either by protoplasting or with Agrobacterium T.
