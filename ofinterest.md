@@ -57,6 +57,7 @@ title: 'Of Interest'
 * [In-vivo bacterial full 3-bit adder](/doc/303032.full.pdf)
 
 * [Einfache Isolierung von biolumieszenten Bakterien aus Meeresfischen](http://www.pmbio.icbm.de/mikrobiologischer-garten/de/deleu01.htm)
+* [Quorum sensing oscillator with lux](https://courses.edx.org/courses/course-v1:MITx+20.305x_2+1T2017/courseware/L14/34a832a5d78d45d1a8e25b3447091285/1?activate_block_id=block-v1%3AMITx%2B20.305x_2%2B1T2017%2Btype%40vertical%2Bblock%40155832ae0957403bae47aaca36d61615)
 * [Stretchable living materials hosting programmed cells](/doc/2200.full.pdf), .....[important supporting info](/doc/2200-supportingInfo-pnas.201618307SI.pdf) .... Hydrogel:=([Alginate](https://www.formx.fr/moulage--tirage/alginate/index.php)+Polyacrylamid) + [Elastomer(Silicone)](https://www.formx.fr/moulage--tirage/silicones/eco-flex-serie/index.php)
 
 * [Database of Ageing-Related Genes](http://genomics.senescence.info/genes/)
