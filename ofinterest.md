@@ -69,3 +69,5 @@ title: 'Of Interest'
 
 * [RNA from Trained Aplysia Can Induce an Epigenetic Engram for Long-Term Sensitization in Untrained Aplysia](/doc/ENEURO.0038-18.2018.full.pdf)
 * [Cause of Cambrian Explosion-Terrestrial or Cosmic?](/doc/CauseofCambrianExplosion-TerrestrialorCosmic.pdf)
+
+* [Alternative bacterial media that do not involve peptone or yeastextract](https://www.researchgate.net/post/Are_there_any_alternative_media_for_bacteria_that_doesnt_involve_peptones_and_yeast_extract). For marine bacteria we could try M9+(Glucose or Glycerol) with NaCl increased to 3%, in liquid culture or optionally with 1% Agar.
