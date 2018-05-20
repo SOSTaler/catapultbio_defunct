@@ -67,7 +67,8 @@ title: 'Of Interest'
 
 * [Plant callus induction i.e. from leaves, using MS agar plus auxins and cytokinins together](http://www.rroij.com/open-access/effect-of-plant-growth-regulators-oncallus-induction-in-physalis-minima-linn-.php?aid=47192), subsequent [callus](https://en.wikipedia.org/wiki/Callus_(cell_biology)) cultivation and transformation with Agrobacterium, then regeneration of plant from callus. [Auxins(2,4–Diphenoxy acetic acid; Naphthalene-3-acetic acid) and cytokinins(6-Benzyl amino purine; Kinetin) are available from the-odin.com](http://www.the-odin.com/plants/)
 
-* [RNA from Trained Aplysia Can Induce an Epigenetic Engram for Long-Term Sensitization in Untrained Aplysia](/doc/ENEURO.0038-18.2018.full.pdf)
+* [RNA from Trained Aplysia Can Induce an Epigenetic Engram for Long-Term Sensitization in Untrained Aplysia](/doc/ENEURO.0038-18.2018.full.pdf), related [Transfer of learned behaviour from trained to untrained rats by means of brain extracts](/doc/pnas00142-0098.pdf).  Both articles support the RNA/epigentics theory of memory formation rather than the currently fashionable synaptic modification theory.
+
 * [Cause of Cambrian Explosion-Terrestrial or Cosmic?](/doc/CauseofCambrianExplosion-TerrestrialorCosmic.pdf)
 
 * [Alternative bacterial media that do not involve peptone or yeastextract](https://www.researchgate.net/post/Are_there_any_alternative_media_for_bacteria_that_doesnt_involve_peptones_and_yeast_extract). For marine bacteria we could try M9+(Glucose or Glycerol) with NaCl increased to 3%, in liquid culture or optionally with 1% Agar.
