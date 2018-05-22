@@ -72,3 +72,6 @@ title: 'Of Interest'
 * [Cause of Cambrian Explosion-Terrestrial or Cosmic?](/doc/CauseofCambrianExplosion-TerrestrialorCosmic.pdf)
 
 * [Alternative bacterial media that do not involve peptone or yeastextract](https://www.researchgate.net/post/Are_there_any_alternative_media_for_bacteria_that_doesnt_involve_peptones_and_yeast_extract). For marine bacteria we could try M9+(Glucose or Glycerol) with NaCl increased to 3%, in liquid culture or optionally with 1% Agar.
+
+* [5-Minute DNA extraction in a shot-glass](http://www.instructables.com/id/5-minute-DNA-Extraction-in-a-Shot-Glass/)
+* [Gel electrophoresis using every day materials](http://www.scq.ubc.ca/the-macgyver-project-genomic-dna-extraction-and-gel-electrophoresis-experiments-using-everyday-materials/)
