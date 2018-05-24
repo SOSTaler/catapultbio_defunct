@@ -67,6 +67,8 @@ title: 'Of Interest'
 
 * [Plant callus induction i.e. from leaves, using MS agar plus auxins and cytokinins together](http://www.rroij.com/open-access/effect-of-plant-growth-regulators-oncallus-induction-in-physalis-minima-linn-.php?aid=47192), subsequent [callus](https://en.wikipedia.org/wiki/Callus_(cell_biology)) cultivation and transformation with Agrobacterium, then regeneration of plant from callus. [Auxins(2,4–Diphenoxy acetic acid; Naphthalene-3-acetic acid) and cytokinins(6-Benzyl amino purine; Kinetin) are available from the-odin.com](http://www.the-odin.com/plants/)
 
+* [Binary Plasmid System for Agrobact. mediated plant transformation](https://en.wikipedia.org/wiki/Transfer_DNA_binary_system),  [buying the "helper" plasmid(has to be Agrobacterium)](https://www.lifescience-market.com/p/eha105-agrobacterium-strain-p-63289.html), buying the "binary" plasmid(can be E.coli, i.e. SnapGene - Plant Vectors)
+
 * [RNA from Trained Aplysia Can Induce an Epigenetic Engram for Long-Term Sensitization in Untrained Aplysia](/doc/ENEURO.0038-18.2018.full.pdf), related [Transfer of learned behaviour from trained to untrained rats by means of brain extracts](/doc/pnas00142-0098.pdf).  Both articles support the RNA/epigentics theory of memory formation rather than the currently fashionable synaptic modification theory.
 
 * [Cause of Cambrian Explosion-Terrestrial or Cosmic?](/doc/CauseofCambrianExplosion-TerrestrialorCosmic.pdf)
