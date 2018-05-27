@@ -3,12 +3,13 @@ layout: post
 title: 'Glowing Bacteria from Supermarket Sardines'
 ---
 ### The Sardines
-![placeholder](/pic/DSCI0070s.JPG "Path")
+![placeholder](http://placehold.it/800x400 "Example image")
 
 ### The Glow
-![placeholder](/pic/DSCI0083s.JPG "Distel")
+![placeholder](http://placehold.it/800x400 "Example image")
 
 ### The Glowing Bacteria
-![placeholder](/pic/DSCI0083s.JPG "Distel")
+![placeholder](http://placehold.it/800x400 "Example image")
+
 -----
 
