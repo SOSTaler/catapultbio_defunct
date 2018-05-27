@@ -8,7 +8,7 @@ title: 'Glowing Bacteria from Supermarket Sardines'
 ### The Glow
 ![placeholder](/pic/DSCI0083s.JPG "Distel")
 
-
 ### The Glowing Bacteria
+![placeholder](/pic/DSCI0083s.JPG "Distel")
 -----
 
