@@ -79,3 +79,5 @@ title: 'Of Interest'
 * [Gel electrophoresis using every day materials](http://www.scq.ubc.ca/the-macgyver-project-genomic-dna-extraction-and-gel-electrophoresis-experiments-using-everyday-materials/)
 
 * [Bacterial cellulose from Acetobacter xylinum](https://www.youtube.com/watch?v=RACk8CN8sjc). Isolating [bacterial cellulose producers](https://www.hindawi.com/journals/ijps/2015/280784/) from rotten fruit or vegetables.
+
+* [Genetic Circuit Design Automation (<=13 gates) for all organisms! cellocad.org](http://cellocad.org/index.html)
