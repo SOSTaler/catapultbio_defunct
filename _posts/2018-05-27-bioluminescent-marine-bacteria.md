@@ -10,8 +10,8 @@ title: 'Glowing Bacteria from Supermarket Sardines'
 ![placeholder](http://placehold.it/200x200 "Example image")
 ![placeholder](http://placehold.it/200x200 "Example image")
 
-### The Glowing Bacteria
-![placeholder](http://placehold.it/800x400 "Example image")
+### The Result
+![placeholder](http://placehold.it/600x600 "Example image")
 
 -----
 
