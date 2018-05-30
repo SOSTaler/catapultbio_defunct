@@ -16,7 +16,7 @@ title: 'Glowing Bacteria from Supermarket Sardines'
 ### How long it takes
 - three to four days, depending on how fresh your fish is. The fresher the fish, the longer it will take for the bioluminescent bacteria to appear. No worries, they are harmless.
 
-### How to
+### How to do it
 - Make saltwater by mixing 3g of salt into 100 mL of water
 - Put aside one sardine to make the broth for the bacteria
 - Put 2-3 sardines in a deep plate, add saltwater so they are half covered only, put the plate in the fridge. The bacteria need oxygen, so do not cover the plate.
@@ -24,7 +24,11 @@ title: 'Glowing Bacteria from Supermarket Sardines'
 
 - Now you need to wait until the bioluminescense appears on the sardines in the plate. This can take up to 4 days. Always keep everything in the fridge. If you change the saltwater every day, the fish won't start to smell as quickly. Check for small green/blue glowing spots. You will only see them in a dark room after your eyes have adapted to the darkness for about a minute or so. But again, it will take two days at least for that glow to appear. ![placeholder](/pic/biolumsardines/DSCI0597.JPG "The Sardines")
 
-- When you see the first glowing spots appear, pour a small amount of the broth from jar #1 into a new jar #2. This will be the one where you cultivate the bacteria. Take a Q-tip and gently dab some of the glowing spots until the tip is soaked, then immerse the tip into jar #2 for some seconds and shake it, so the bacteria are transferred.  Take a new Q-tip and repeat, if you take bacteria from a different spot. When done, put everything back into the fridge. The older the fish gets, the more spots will appear and the brighter they will glow, so repeat this several times, until you cannot stand the smell anymore :-)
+- When you see the first glowing spots appear, pour a small amount of the broth from jar #1 into a new jar #2. This will be the one where you cultivate the bacteria. Take a Q-tip and gently dab some of the glowing spots until the tip is soaked, then immerse the tip into jar #2 for some seconds and shake it, so the bacteria are transferred.  Take a new Q-tip and repeat, if you take bacteria from a different spot. When done, put everything back into the fridge. The older the fish gets, the more spots will appear and the brighter they will glow, so repeat this several times, until you cannot stand the smell anymore :-) 
+
+- Remeber that jar #2 should not be covered or closed. The bacteria need oxygen to glow. You can "wake them up" by gently shaking the jar.
+
+- AFter you have thrown away the rotten sardines, you can keep culturing the glowing bacteria in jar #2 for quite a while if every day you first remove a small amount of broth and replace it with fresh one!
 
 
 ### The Result
