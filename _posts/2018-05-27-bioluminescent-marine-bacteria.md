@@ -28,7 +28,7 @@ title: 'Glowing Bacteria from Supermarket Sardines'
 
 - Remeber that jar #2 should not be covered or closed. The bacteria need oxygen to glow. You can "wake them up" by gently shaking the jar.
 
-- After you have thrown away the rotten sardines, you can keep culturing the glowing bacteria in jar #2 for quite a while if every day you remove a small amount of broth and replace it with fresh broth from jar #1!
+- After you have thrown away the rotten sardines, you can keep culturing the glowing bacteria in jar #2 for quite a while if every day you replace a small amount of broth with fresh broth from jar #1!
 
 
 ### The Result
