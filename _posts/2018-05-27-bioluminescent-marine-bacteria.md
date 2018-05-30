@@ -11,7 +11,6 @@ title: 'Glowing Bacteria from Supermarket Sardines'
 ![placeholder](http://placehold.it/200x200 "Example image")
 
 ### The Result
-![placeholder](http://placehold.it/600x600 "Example image")
-
+![placeholder](/pic/biolumsardines/DSCI0611x.JPG "The Glowing Bacteria")
 -----
 
