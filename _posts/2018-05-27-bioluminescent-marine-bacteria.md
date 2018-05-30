@@ -3,7 +3,7 @@ layout: post
 title: 'Glowing Bacteria from Supermarket Sardines'
 ---
 ![placeholder](/pic/biolumsardines/DSCI0597.JPG "The Sardines")
-![placeholder](/pic/biolumsardines/DSCI0611.JPG "The Glowing Bacteria")
+![placeholder](/pic/biolumsardines/DSCI0611.JPG "The Glowing Bacteria on a Petri Plate")
 
 ### What you need
 - 3-4 fresh(ish) sardines. Deepfrozen fish will *not* work, so get them from a market or your supermarkets fresh fish counter. Any other saltwater fish should be ok too.
@@ -22,7 +22,7 @@ title: 'Glowing Bacteria from Supermarket Sardines'
 - Put 2-3 sardines in a deep plate, add saltwater so they are half covered only, put the plate in the fridge. The bacteria need oxygen, so do not cover the plate.
 - Make the broth by boiling one entire sardine in 1/2 L of water for 30-40 minutes. When done, discard the fish, fill up the broth with boiling water so you have 1/2 L, use a sif or a paper filter to get clear broth, which you can fill into glass jar #1. Let the broth cool for an hour or two, then store the jar in the fridge.
 
-- Now you need to wait until the bioluminescense appears on the sardines in the plate. This can take up to 4 days. Always keep everything in the fridge. If you change the saltwater every day, the fish won't start to smell as quickly. Check for small green/blue glowing spots. You will only see them in a dark room after your eyes have adapted to the darkness for about a minute or so. But again, it will take two days at least for that glow to appear. ![placeholder](/pic/biolumsardines/DSCI0597.JPG "The Sardines") ![placeholder](/pic/biolumsardines/DSCI0594-sardinen.JPG "The Glow on Sardines")
+- Now you need to wait until the bioluminescense appears on the sardines in the plate. This can take up to 4 days. Always keep everything in the fridge. If you change the saltwater every day, the fish won't start to smell as quickly. Check for small green/blue glowing spots. You will only see them in a dark room after your eyes have adapted to the darkness for about a minute or so. But again, it will take two days at least for that glow to appear. ![placeholder](/pic/biolumsardines/DSCI0597.JPG "The Sardines") ![placeholder](/pic/biolumsardines/DSCI0594-sardinen.JPG "The Very Faint Glow on the Sardines")
 
 - When you see the first glowing spots appear, pour a small amount of the broth from jar #1 into a new jar #2. This will be the one where you cultivate the bacteria. Take a Q-tip and gently dab some of the glowing spots until the tip is soaked, then immerse the tip into jar #2 for some seconds and shake it, so the bacteria are transferred.  Take a new Q-tip and repeat, if you take bacteria from a different spot. When done, put everything back into the fridge. The older the fish gets, the more spots will appear and the brighter they will glow, so repeat this several times, until you cannot stand the smell anymore :-) 
 
@@ -32,6 +32,6 @@ title: 'Glowing Bacteria from Supermarket Sardines'
 
 
 ### The Result
-![placeholder](/pic/biolumsardines/DSCI0611x.JPG "The Glowing Bacteria")
+![placeholder](/pic/biolumsardines/DSCI0611x.JPG "The Glowing Bacteria on a Petri Plate")
 -----
 
