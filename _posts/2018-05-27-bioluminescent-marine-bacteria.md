@@ -20,7 +20,7 @@ title: 'Isolate Glowing Bacteria from Supermarket Sardines'
 - Make saltwater by mixing 3g of salt into 100 mL of water
 - Put aside one sardine to make the culturing broth for the bacteria
 - Put 2-3 sardines in a deep plate, add saltwater so they are half covered only, put the plate in the fridge. The bacteria need oxygen, so do not cover the plate.
-- Make the culturing broth by boiling one entire sardine in 1/2 L of water for 30-40 minutes. When done, discard the fish, fill up the broth with boiling water so you have 1/2 L, use a sif or a paper filter to get clear broth, which you can fill into glass jar #1. Now add 15g of salt to the jar and stir until dissolved. Let the broth cool for an hour or two, then store the jar in the fridge.
+- Make the culturing broth by boiling one entire sardine in 1/2 L of water for 30-40 minutes. When done, discard the fish, fill up the broth with boiling water so you have exactly 1/2 L, use a sif or a paper filter to get clear broth, which you can fill into glass jar #1. Now add 15g of salt to the jar and stir until dissolved. Let the broth cool for an hour or two, then store the jar in the fridge.
 
 - Now you need to wait until the bioluminescense appears on the sardines in the plate. This can take up to 4 days. Always keep everything in the fridge. If you change the saltwater every day, the fish won't start to smell bad as quickly. Check for small green/blue glowing spots. You will only see them in a dark room after your eyes have adapted to the darkness for about a minute or so. But again, it will take two days at least for that glow to appear. ![placeholder](/pic/biolumsardines/DSCI0597.JPG "The Sardines") ![placeholder](/pic/biolumsardines/DSCI0594-sardinen.JPG "The Very Faint Glow on the Sardines")
 
