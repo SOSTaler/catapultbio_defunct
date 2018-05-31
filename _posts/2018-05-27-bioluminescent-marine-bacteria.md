@@ -10,7 +10,7 @@ title: 'Isolate Glowing Bacteria from Supermarket Sardines'
 - Salt
 - Deep plate
 - 2 glass jars
-- Q-tips
+- Q-tips (cotton swabs)
 
 
 ### How long it takes
