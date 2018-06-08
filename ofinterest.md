@@ -47,6 +47,7 @@ title: 'Of Interest'
 2. Sequencing@home (1000$!): [Oxford Nanopore - UK](https://nanoporetech.com/)
 
 * Plasmid Purification Kit (bacterial) - Microcentrifuge needed. Not clear which kits will work with a small tabletop centrifuge.
+0. [EURx.com.pl ~ 50 EUR for 50 preps !!](https://eurx.com.pl/docs/012018_Pricelist.pdf)
 1. [Ozyme.fr ~ 40 EUR for 10 preps](https://www.ozyme.fr/produits/zymopure-purification-plasmides.asp#/).
 2. [CarlRoth ~ 36 EUR for 10 preps, requires additional Ethanol(99%) and NaAc?](https://www.carlroth.com/fr/fr/Produits-Chimiques/A-Z%2C-produits-chimiques/R/Roti%3Csup%3E%C2%AE%3C-sup%3E-Prep-Plasmide-MINI/Roti%3Csup%3E%C2%AE%3C-sup%3E-Prep-Plasmide-MINI/p/000000080000d57300050023_fr)
 
