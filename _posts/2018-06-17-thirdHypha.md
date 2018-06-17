@@ -7,6 +7,6 @@ title: 'Third Hypha'
 
 ![placeholder](/pic/hypha3/DSCI0645a.JPG "Spider")
 
-![placeholder](/pic/hypha3/DSCI0650a.JPG "")
+![placeholder](/pic/hypha3/DSCI0650a.JPG "Beetle")
 
 -----
