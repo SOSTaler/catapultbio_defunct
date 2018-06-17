@@ -2,7 +2,7 @@
 layout: post
 title: 'Third Hypha'
 ---
-### Leaves & Insects & Arachnids
+### Leaves,Insects & Arachnids
 ![placeholder](/pic/hypha3/DSCI0635.JPG "Moth Larva")
 
 ![placeholder](/pic/hypha3/DSCI0645a.JPG "Spider")
