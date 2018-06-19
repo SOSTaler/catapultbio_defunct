@@ -44,6 +44,7 @@ title: 'Of Interest'
 1. Synthesis (0.25 EUR/base): [IDT DNA - Belgium](https://eu.idtdna.com/Site/Order/oligoentry)
 1. Synthesis (): [Macrogen](http://dna.macrogen.com/eng/)
 1. Synthesis@home (>8000$):  [Kilobaser(Startup) - Austria](http://www.kilobaser.com/)
+1. Synthesis NEW !! [Enzymatic Synthesis](https://www.humanbioscience.org/2018/06/Researchers-develop-better-way-of-synthesizing-dna.html)
 2. Sequencing@home (1000$!): [Oxford Nanopore - UK](https://nanoporetech.com/)
 
 * Plasmid Purification Kit (bacterial) - Microcentrifuge needed. Not clear which kits will work with a small tabletop centrifuge.
