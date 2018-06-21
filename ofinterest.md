@@ -75,6 +75,8 @@ title: 'Of Interest'
 
 * Plant protoplasts without cellulase digestion: Use [hydrochloric acid (>37%)](https://www.researchgate.net/post/Is_there_any_cheaper_alternative_to_cellulase_and_hemicellulase_for_digesting_plant_cell_walls) at room temp. Timing essential! Or use [mechanical method](https://www.youtube.com/watch?v=0oXrwNGuTDE). With cellulase, [full process nicely explained](https://www.youtube.com/watch?v=5-xm1EoLrW4)
 
+* Plant calluses induced from equal concentration(exactly?) of auxins(i.e.NAA) and cytokinins(i.e.BAP). Buy them in small quantities from here [patrickpolbosorchids.fr](http://www.patrickpolbosorchids.fr/boutique/fr/22-culture-in-vitro)
+
 * [RNA from Trained Aplysia Can Induce an Epigenetic Engram for Long-Term Sensitization in Untrained Aplysia](/doc/ENEURO.0038-18.2018.full.pdf), related [Transfer of learned behaviour from trained to untrained rats by means of brain extracts](/doc/pnas00142-0098.pdf).  Both articles support the RNA/epigentics theory of memory formation rather than the currently fashionable synaptic modification theory.
 
 * [Cause of Cambrian Explosion-Terrestrial or Cosmic?](/doc/CauseofCambrianExplosion-TerrestrialorCosmic.pdf)
