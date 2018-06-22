@@ -89,3 +89,5 @@ title: 'Of Interest'
 * [Bacterial cellulose from Acetobacter xylinum](https://www.youtube.com/watch?v=RACk8CN8sjc). Isolating [bacterial cellulose producers](https://www.hindawi.com/journals/ijps/2015/280784/) from rotten fruit or vegetables.
 
 * [Genetic Circuit Design Automation (<=13 gates) for all organisms! cellocad.org](http://cellocad.org/index.html)
+
+* [Communication and quorum sensing in non-living mimics of eukaryotic cells](/doc/Cell-mimics-2018.pdf)
