@@ -94,3 +94,4 @@ title: 'Of Interest'
 * [Communication and quorum sensing in non-living mimics of eukaryotic cells](/doc/Cell-mimics-2018.pdf)
 
 * [Plant Behaviour - Research Articles](http://www.plantbehavior.org/resources/)
+* [Plant Secondary Metabolites Similarity to Animal Neurotransmitters and Hormones](/doc/Plant-secondary-metabolites-ijms-14-10819.pdf)
