@@ -92,3 +92,5 @@ title: 'Of Interest'
 * [Genetic Circuit Design Automation (<=13 gates) for all organisms! cellocad.org](http://cellocad.org/index.html)
 
 * [Communication and quorum sensing in non-living mimics of eukaryotic cells](/doc/Cell-mimics-2018.pdf)
+
+* [Plant Behaviour - Research Articles](http://www.plantbehavior.org/resources/)
