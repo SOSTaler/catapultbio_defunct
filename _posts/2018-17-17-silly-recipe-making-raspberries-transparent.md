@@ -13,14 +13,14 @@ title: 'Silly Recipe: Making Transparent Raspberries'
 - Bleach
 
 ### How long it takes
-- five to seven days.
+- five to six days.
 
 ### How to do it
-- Make saltwater by mixing 3g of salt into 100 mL of water
-- Put aside one sardine to make the culturing broth for the bacteria
-- Put 2-3 sardines in a deep plate, add saltwater so they are half covered only, put the plate in the fridge. The bacteria need oxygen, so do not cover the plate.
-- Make the culturing broth by boiling one entire sardine in 1/2 L of water for 30-40 minutes. When done, discard the fish, fill up the broth with boiling water so you have exactly 1/2 L, use a sif or a paper filter to get clear broth, which you can fill into glass jar #1. Now add 15g of salt to the jar and stir until dissolved. Let the broth cool for an hour or two, then store the jar in the fridge.
+- Day 1: Make a dishwashing soap solution by taking 10 ml soap and fillin up to 100 ml water. For best results the soap itself should be a clear liquid. Put the raspberries in the solution and let them rest for 2 days
+- Day 3: You will see that the solution is turning red. Discard it at replace it with another 100 ml of fresh soap solution.
+- Day 4: The solution will have turned red again. Discard it and this time replace it with a solution of 10 ml household bleach, filled up to 100ml of water
+- Day 5: Check if all the raspberries have turned transparent. If not, wait one more day. You can also add 5-10 ml of pure bleach to the solution, but be careful. Too much bleach will make the raspberries desintegrate.
 
-
+You are done. DO NOT EAT the raspberries.
 -----
 
