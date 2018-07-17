@@ -5,7 +5,7 @@ title: 'Silly Recipe: Making Transparent Raspberries'
 ![placeholder](/pic/transparentraspb/DSCI0669.JPG "The Raspberries")
 ![placeholder](/pic/transparentrasp/DSCI0611.JPG "A (nearly) Transparent Raspberry")
 
-### WARNING: The transparent raspberries won't be edible anymore. Do not eat them!
+### WARNING: DO NOT EAT the transparent raspberries!
 
 ### What you need
 - A handful of raspberries.
