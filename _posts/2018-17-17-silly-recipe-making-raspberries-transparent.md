@@ -2,8 +2,8 @@
 layout: post
 title: 'Silly Recipe: Making Transparent Raspberries'
 ---
+![placeholder](/pic/transparentraspb/DSCI0684.JPG "A (nearly) Transparent Raspberry")
 ![placeholder](/pic/transparentraspb/DSCI0669.JPG "The Raspberries")
-![placeholder](/pic/transparentrasp/DSCI0611.JPG "A (nearly) Transparent Raspberry")
 
 ### WARNING: DO NOT EAT the transparent raspberries!
 
