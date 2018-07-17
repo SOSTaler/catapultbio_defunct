@@ -9,7 +9,7 @@ title: 'Silly Recipe: Making Transparent Raspberries'
 
 ### What you need
 - A handful of raspberries.
-- Dish soap
+- Dishwashing soap
 - Bleach
 
 ### How long it takes
