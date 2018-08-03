@@ -99,3 +99,6 @@ title: 'Of Interest'
 * [Plant Predicts Position of Rising Sun Several Hours Before Dawn](http://www.plantphysiol.org/content/80/3/778)
 
 * [Sea slugs that can photosynthesize](https://en.wikipedia.org/wiki/Elysia_chlorotica)
+
+* [A galling insect activates plant reproductive programs during gall development 2018](/doc/A-galling-insect-activates-plant-reproductive-programs-during-gall-development-2018-383851.full.pdf
+)
