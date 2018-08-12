@@ -107,4 +107,4 @@ title: 'Of Interest'
 
 * [Biomineralization](https://en.wikipedia.org/wiki/Biomineralization), or also organic silica.
 
-* [Making humans fit for mars?](/doc/Protective-Alleles.html), the [Wired.com](https://www.wired.com/story/ideas-jason-pontin-genetic-engineering-for-mars/) article.
+* [40 Genes Coding Desirable Traits For Future Humans?](/doc/Protective-Alleles.html), the [Wired.com](https://www.wired.com/story/ideas-jason-pontin-genetic-engineering-for-mars/) article.
