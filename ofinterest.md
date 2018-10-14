@@ -113,3 +113,5 @@ title: 'Of Interest'
 
 * [Reprogramming Neurons into Dopaminergic
 Neuron-like Cells in the Adult Mouse Brain](/doc/Cell2018-InVivio-reprogrammingNeuralCells-to-DopaminergicNeurons.pdf), Parkinsons, Alzheimer, [Dopaminergic Cells](https://en.wikipedia.org/wiki/Dopaminergic_cell_groups)
+
+* [DNA extraction from feces](/doc/An%20efficient%20protocol%20for%20genomic%20DNA%20extraction%20from%20feces.pdf)
