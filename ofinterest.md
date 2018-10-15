@@ -115,3 +115,4 @@ title: 'Of Interest'
 Neuron-like Cells in the Adult Mouse Brain](/doc/Cell2018-InVivio-reprogrammingNeuralCells-to-DopaminergicNeurons.pdf), Parkinsons, Alzheimer, [Dopaminergic Cells](https://en.wikipedia.org/wiki/Dopaminergic_cell_groups)
 
 * [DNA extraction from feces](/doc/An%20efficient%20protocol%20for%20genomic%20DNA%20extraction%20from%20feces.pdf)
+* [Fecal metagenomics for population genetics](/doc/Fecal%20metagenomics%20for%20population%20genetics%20of%20primates.pdf)
