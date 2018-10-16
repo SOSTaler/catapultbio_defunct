@@ -114,7 +114,9 @@ title: 'Of Interest'
 * [Reprogramming Neurons into Dopaminergic
 Neuron-like Cells in the Adult Mouse Brain](/doc/Cell2018-InVivio-reprogrammingNeuralCells-to-DopaminergicNeurons.pdf), Parkinsons, Alzheimer, [Dopaminergic Cells](https://en.wikipedia.org/wiki/Dopaminergic_cell_groups)
 
+------------------
 * [DNA extraction from feces](/doc/An%20efficient%20protocol%20for%20genomic%20DNA%20extraction%20from%20feces.pdf)
 * [Fecal metagenomics for population genetics](/doc/Fecal%20metagenomics%20for%20population%20genetics%20of%20primates.pdf)
 * [Metagenomics - a guide from sampling to data analysis](/doc/Metagenomics%20-%20a%20guide%20from%20sampling%20to%20data%20analysis.pdf)
 * Genome assembly on laptop/RaspberryPi [INRIA Video](https://www.youtube.com/watch?v=Ppc0j-nrEIQ) using [MINIA](https://gatb.inria.fr/software/minia/) from the [GATB package](https://gatb.inria.fr/software/). Use with MinION or output of Illumina sequencers HiSeq/MiSeq.
+------------------
