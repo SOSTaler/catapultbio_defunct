@@ -121,4 +121,4 @@ Neuron-like Cells in the Adult Mouse Brain](/doc/Cell2018-InVivio-reprogrammingN
 * Genome assembly on laptop/RaspberryPi [INRIA Video](https://www.youtube.com/watch?v=Ppc0j-nrEIQ) using [MINIA](https://gatb.inria.fr/software/minia/) from the [GATB package](https://gatb.inria.fr/software/). Use with MinION or output of Illumina sequencers HiSeq/MiSeq. GATB has many other useful tools.
 ------------------
 
-* [Potato virus Y](https://viralzone.expasy.org/50?outline=all_by_species) 'poytvirus'. RNA Virus. [Genome](https://www.ncbi.nlm.nih.gov/nucleotide/NC_001616)
+* [Potato virus Y](https://viralzone.expasy.org/50?outline=all_by_species) 'poytvirus' class of RNA Viruses. [Genome](https://www.ncbi.nlm.nih.gov/nucleotide/NC_001616). [Extreme resistance to Potato Virus Y](/doc/Extreme%20resistance%20to%20Potato%20Virus%20Y%20-%202018.pdf)
