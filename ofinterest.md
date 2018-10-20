@@ -122,3 +122,5 @@ Neuron-like Cells in the Adult Mouse Brain](/doc/Cell2018-InVivio-reprogrammingN
 ------------------
 
 * [Potato virus Y](https://viralzone.expasy.org/50?outline=all_by_species) 'poytvirus' class of RNA Viruses. [Genome](https://www.ncbi.nlm.nih.gov/nucleotide/NC_001616). [Extreme resistance to Potato Virus Y](/doc/Extreme%20resistance%20to%20Potato%20Virus%20Y%20-%202018.pdf)
+
+* [Magic Mushroom Drug Evolved to Mess with Insect Brains](https://blogs.scientificamerican.com/artful-amoeba/magic-mushroom-drug-evolved-to-mess-with-insect-brains/), [article](/doc/mmushr/Reynolds_et_al-2018-Evolution_Letters.pdf),[sup1](/doc/mmushr/Reynolds_et_al-2018-Evolution_Letters.sup-1.pdf),[sup2](/doc/mmushr/evl342-sup-0001-SupMat.xlsx)
