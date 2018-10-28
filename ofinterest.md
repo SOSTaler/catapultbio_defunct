@@ -123,6 +123,6 @@ Neuron-like Cells in the Adult Mouse Brain](/doc/Cell2018-InVivio-reprogrammingN
 
 * [Potato virus Y](https://viralzone.expasy.org/50?outline=all_by_species) 'poytvirus' class of RNA Viruses. [Genome](https://www.ncbi.nlm.nih.gov/nucleotide/NC_001616). [Extreme resistance to Potato Virus Y](/doc/Extreme%20resistance%20to%20Potato%20Virus%20Y%20-%202018.pdf)
 
-* Potato virus Y: [An easy way to clone potyviral full-length infectious cDNA clones expressing an ectopic VPg, using Gibson assembly](/doc/potyvirus-recombinant-Gibson.pdf)
+* Potato virus Y: [An easy way to clone potyviral full-length infectious cDNA clones expressing an ectopic VPg, using Gibson assembly](/doc/potyvirus-recombinant-Gibson.pdf). Notable: In-vitro construction of the entire plasmid(E.coli), containing the modified viral cDNA, from three segments who were individually synthesized and assembled using a Gibson approach.
 
 * [Magic Mushroom Drug Evolved to Mess with Insect Brains](https://blogs.scientificamerican.com/artful-amoeba/magic-mushroom-drug-evolved-to-mess-with-insect-brains/), [article](/doc/mmushr/Reynolds_et_al-2018-Evolution_Letters.pdf),[sup1](/doc/mmushr/Reynolds_et_al-2018-Evolution_Letters.sup-1.pdf),[sup2](/doc/mmushr/evl342-sup-0001-SupMat.xlsx)
