@@ -126,3 +126,5 @@ Neuron-like Cells in the Adult Mouse Brain](/doc/Cell2018-InVivio-reprogrammingN
 * Potato virus Y: [An easy way to clone potyviral full-length infectious cDNA clones expressing an ectopic VPg, using Gibson assembly](/doc/potyvirus-recombinant-Gibson.pdf). Notable: In-vitro construction of the entire plasmid(E.coli), containing the modified viral cDNA, from three segments who were individually synthesized and assembled using a Gibson approach. The purified plasmid is then directly used for gene-gun innoculation.
 
 * [Magic Mushroom Drug Evolved to Mess with Insect Brains](https://blogs.scientificamerican.com/artful-amoeba/magic-mushroom-drug-evolved-to-mess-with-insect-brains/), [article](/doc/mmushr/Reynolds_et_al-2018-Evolution_Letters.pdf),[sup1](/doc/mmushr/Reynolds_et_al-2018-Evolution_Letters.sup-1.pdf),[sup2](/doc/mmushr/evl342-sup-0001-SupMat.xlsx)
+
+* [In-vivo gene editing using AAVHSC](), and the [supplement]()
