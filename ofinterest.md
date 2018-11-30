@@ -131,4 +131,4 @@ Neuron-like Cells in the Adult Mouse Brain](/doc/Cell2018-InVivio-reprogrammingN
 
 * MED: [Natural COX inhibitors](https://en.wikipedia.org/wiki/Cyclooxygenase#Natural_COX_inhibition)
 
-* [Arduino-based, ultra-low power data logger for harsh environments(2018)]()
+* [Data-logger for harsh environments, Arduino-based, ultra-low power (2018)](/doc/sensors-18-00530.pdf)
