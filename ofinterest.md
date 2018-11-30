@@ -130,3 +130,5 @@ Neuron-like Cells in the Adult Mouse Brain](/doc/Cell2018-InVivio-reprogrammingN
 * [In-vivo gene editing using AAVHSC](/doc/pnas.1802343115.pdf), and the [supplement](/doc/pnas.1802343115.sapp.pdf)
 
 * MED: [Natural COX inhibitors](https://en.wikipedia.org/wiki/Cyclooxygenase#Natural_COX_inhibition)
+
+* [Arduino-based, ultra-low power data logger for harsh environments(2018)]()
