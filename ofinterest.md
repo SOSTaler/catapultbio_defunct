@@ -97,7 +97,7 @@ title: 'Of Interest'
 
 * [Plant Behaviour - Research Articles](http://www.plantbehavior.org/resources/)
 * [Plant Secondary Metabolites Similarity to Animal Neurotransmitters and Hormones](/doc/Plant-secondary-metabolites-ijms-14-10819.pdf)
-* [Plants Respond to Leaf Vibrations Caused by Insects’ Chewing](https://vimeo.com/99635253)
+* [Plants Respond to Leaf Vibrations Caused by Insects’ Chewing](https://vimeo.com/99635253),[Article](/doc/2014_Article_PlantsRespondToLeafVibrationsC.pdf),[Sup1](/doc/2014_Article_PlantsRespondToLeafVibrationsC-Sup1.docx),[Sup2](/doc/2014_Article_PlantsRespondToLeafVibrationsC-Sup2.xls)
 * [Plant Predicts Position of Rising Sun Several Hours Before Dawn](http://www.plantphysiol.org/content/80/3/778)
 
 * [Sea slugs that can photosynthesize](https://en.wikipedia.org/wiki/Elysia_chlorotica)
