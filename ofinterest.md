@@ -136,3 +136,5 @@ Neuron-like Cells in the Adult Mouse Brain](/doc/Cell2018-InVivio-reprogrammingN
 * [Cyborg Botany 2017](/doc/Cybrog Botany 2017.pdf)
 
 * Bioluminescent Ornamental Plants(announced Nov 2018), based on fungal luciferase gene nnLuz and luciferin biosynthesis from caffeic acid, [Planta.bio](http://planta.bio),[Evrogen](http://evrogen.com)
+
+* [Plants emit remotely detectable ultrasound - Dec 2018](/doc/Plants%20emit%20remotely-detectable%20ultrasounds2018.pdf)
