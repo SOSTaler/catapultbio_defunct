@@ -8,8 +8,8 @@ title: 'Welcome to Catapult Bio'
 * Inspired by life
 * Enabled by technology
 
-[Go here](http://www.google.com){: .btn}
-[Go there](http://www.google.com){: .btn}
+{% include button.html url="http://www.google.com" %}
+{% include button.html url="http://www.google.com" %}
 
 -----
 
