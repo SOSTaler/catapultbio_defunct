@@ -5,17 +5,17 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               Area X 
-tagline:             'Exploring The Petri-dish That Is The World'
+title:               Catapult Bio 
+tagline:             'Exploring The Frontiers'
 description:         ''
-url:                 http://AreaX.bio
+url:                 http://catapult.bio
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              S. Cerevisae
-  url:               http://AreaX.bio
+  url:               http://catapult.bio
   email:             nothing@themome.nt
 
 # Custom vars
