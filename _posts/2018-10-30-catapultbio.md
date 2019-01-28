@@ -3,7 +3,11 @@ layout: page
 title: 'Welcome to Catapult Bio'
 ---
 
+## Facts
 
-![placeholder](/pic/hypha3/DSCI0654.JPG "Gall-2")
+* Inspired by life
+* Enabled by technology
+
+
 -----
 
