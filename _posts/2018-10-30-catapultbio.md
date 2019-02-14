@@ -2,7 +2,7 @@
 layout: page
 title: 'Welcome to Catapult Bio'
 ---
-![placeholder](/pic/caratula-800.jpg "Large example image")
+![placeholder](/pic/caratula-800-2.jpg "Catapult Bio")
 
 ## Inspired by life - Enabled by technology
 
