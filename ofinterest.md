@@ -115,12 +115,12 @@ title: 'Of Interest'
 Neuron-like Cells in the Adult Mouse Brain](/doc/Cell2018-InVivio-reprogrammingNeuralCells-to-DopaminergicNeurons.pdf), Parkinsons, Alzheimer, [Dopaminergic Cells](https://en.wikipedia.org/wiki/Dopaminergic_cell_groups)
 
 ------------------
-* [DNA extraction from feces](/doc/An%20efficient%20protocol%20for%20genomic%20DNA%20extraction%20from%20feces.pdf), Note: eurx.com.pl offers a special 'DNA extraction from feces' kit.
+* [DNA extraction from feces](/doc/An%20efficient%20protocol%20for%20genomic%20DNA%20extraction%20from%20feces.pdf), Note: eurx.com.pl offers a special "DNA extraction from feces" kit.
 * [Fecal metagenomics for population genetics](/doc/Fecal%20metagenomics%20for%20population%20genetics%20of%20primates.pdf)
 * [Metagenomics - a guide from sampling to data analysis](/doc/Metagenomics%20-%20a%20guide%20from%20sampling%20to%20data%20analysis.pdf)
 ------------------
 
-* [Potato virus Y](https://viralzone.expasy.org/50?outline=all_by_species) 'poytvirus' class of RNA Viruses. [Genome](https://www.ncbi.nlm.nih.gov/nucleotide/NC_001616). [Extreme resistance to Potato Virus Y](/doc/Extreme%20resistance%20to%20Potato%20Virus%20Y%20-%202018.pdf)
+* [Potato virus Y](https://viralzone.expasy.org/50?outline=all_by_species) "poytvirus" class of RNA Viruses. [Genome](https://www.ncbi.nlm.nih.gov/nucleotide/NC_001616). [Extreme resistance to Potato Virus Y](/doc/Extreme%20resistance%20to%20Potato%20Virus%20Y%20-%202018.pdf)
 
 * Potato virus Y: [An easy way to clone potyviral full-length infectious cDNA clones expressing an ectopic VPg, using Gibson assembly](/doc/potyvirus-recombinant-Gibson.pdf). Notable: In-vitro construction of the entire plasmid(E.coli), containing the modified viral cDNA, from three segments who were individually synthesized and assembled using a Gibson approach. The purified plasmid is then directly used for gene-gun innoculation.
 
