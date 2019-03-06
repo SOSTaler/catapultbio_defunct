@@ -144,3 +144,5 @@ Neuron-like Cells in the Adult Mouse Brain](/doc/Cell2018-InVivio-reprogrammingN
 * [Engineering the autonomous growth and formation of patterns 2019](/doc/engineering_the_autonomous_growth_and_formation_of_patterns2019.pdf)
 
 * [Example: Testing a Parkinsons associated SNP with standard PCR](/doc/DetectingParkinson-through-SNP-BME100%20f2018_Group2%20T0800%20L4%20-%20OpenWetWare.html) and [detecting if DNA was amplified by simple mixing of amplificate with a fluorescent dye](/doc/SmartphoneFluorimeter-BME100%20f2018_Group4%20T1030%20L5%20-%20OpenWetWare.html) and [detecting the quantity of stained DNA with a Smartphone Fluorimeter](/doc/Smartphone-Fluorimeter-1405.4357.pdf). The SNP is located within the region of the [LRRK2](https://www.ebi.ac.uk/gwas/search?query=LRRK2) gene.
+
+* MEMORY & Epigenetics: DNA methylation and Memory Formation. [Altered protein expression in neurons, controlled by 8-oxo-dG-dependent demethylation of CpG sites in gene promoters within neuron DNA, is central to memory formation(2011)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3130618/)
