@@ -118,8 +118,6 @@ Neuron-like Cells in the Adult Mouse Brain](/doc/Cell2018-InVivio-reprogrammingN
 * [DNA extraction from feces](/doc/An%20efficient%20protocol%20for%20genomic%20DNA%20extraction%20from%20feces.pdf), Note: eurx.com.pl offers a special 'DNA extraction from feces' kit.
 * [Fecal metagenomics for population genetics](/doc/Fecal%20metagenomics%20for%20population%20genetics%20of%20primates.pdf)
 * [Metagenomics - a guide from sampling to data analysis](/doc/Metagenomics%20-%20a%20guide%20from%20sampling%20to%20data%20analysis.pdf)
-
-* Genome assembly on laptop/RaspberryPi [INRIA Video](https://www.youtube.com/watch?v=Ppc0j-nrEIQ) using [MINIA](https://gatb.inria.fr/software/minia/) from the [GATB package](https://gatb.inria.fr/software/). Use with MinION or output of Illumina sequencers HiSeq/MiSeq. GATB has many other useful tools.
 ------------------
 
 * [Potato virus Y](https://viralzone.expasy.org/50?outline=all_by_species) 'poytvirus' class of RNA Viruses. [Genome](https://www.ncbi.nlm.nih.gov/nucleotide/NC_001616). [Extreme resistance to Potato Virus Y](/doc/Extreme%20resistance%20to%20Potato%20Virus%20Y%20-%202018.pdf)
