@@ -147,3 +147,5 @@ Neuron-like Cells in the Adult Mouse Brain](/doc/Cell2018-InVivio-reprogrammingN
 
 * MEMORY & Epigenetics: [DNA methylation and Memory Formation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3130618/). "...neuron DNA methylation and demethylation are altered by neuronal activity. Active DNA methylations and demethylations are required for synaptic plasticity, are modified by experiences, and are required for memory formation and maintenance." [Wikipedia](https://en.wikipedia.org/wiki/8-Oxo-2%27-deoxyguanosine#Demethylation_at_CpG_sites_requires_8-oxo-dG)
 "... altered protein expression in neurons, controlled by 8-oxo-dG-dependent demethylation of CpG sites in gene promoters within neuron DNA, is central to memory formation(2011)". [Recent evidence confirms that it happens during sleep](https://www.nature.com/articles/s41467-019-08806-w). 
+
+* MEMORY & Epigenetics (Neuroepigenetics): [Contrasting roles for DNA methyltransferases and histone deacetylases in single-item and associative recognition memory](https://www.sciencedirect.com/science/article/pii/S2214784516300196)
