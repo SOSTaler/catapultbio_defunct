@@ -155,3 +155,6 @@ Neuron-like Cells in the Adult Mouse Brain](/doc/Cell2018-InVivio-reprogrammingN
 * [Precise estimate of the epigenetic mutation rate - 2015](https://www.pnas.org/content/112/21/6676) Methylation pattern of CpG motifs is heritable in A.thaliana. Epigenetic mutation rate is five orders of magnitude (100000x) higher than the genetic mutation rate.
 
 https://www.spektrum.de/video/hirnerkrankungen-posttraumatische-belastungsstoerung-ptbs/1614068
+
+* [Rapid, Low-Cost Detection of Water Contaminants Using Regulated In Vitro Transcription (with a PURE cell-free system)](/doc/619296.full.pdf),[Supp-1]()
+
