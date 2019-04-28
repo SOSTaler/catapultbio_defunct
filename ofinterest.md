@@ -152,6 +152,8 @@ Neuron-like Cells in the Adult Mouse Brain](/doc/Cell2018-InVivio-reprogrammingN
 
 * MEMORY & Epigenetics: [It is widely believed that rapid and reversible DNA methylation is essential for the stability of long-term memory but still very little is known how synaptic signals can induce changes in DNA-methylation to elicit enduring alterations in plasticity-related gene expression (Bayraktar & Kreutz, 2018a, b; Campbell & Wood, 2019; Day & Sweatt, 2010; Miller & Sweatt, 2007; Guo et al, 2011). In addition, aberrant DNA methylation has been implicated in neuropsychiatric diseases including schizophrenia, bipolar, and major depression disorders (Bayraktar & Kreutz, 2018; Mill et al, 2008; Murgatroyd et al, 2009).](https://www.biorxiv.org/content/10.1101/602151v1.full). ... The underlying signaling machinery is also here not well understood and it is still essentially unclear how synaptic signals conveyed to the nucleus impact mechanisms of DNA methylation and demethylation.
 
+* MEMORY & epigenetics: [The role of CpG sites in memory](https://en.wikipedia.org/wiki/CpG_site#Role_of_CpG_sites_in_memory)
+
 * [Precise estimate of the epigenetic mutation rate - 2015](https://www.pnas.org/content/112/21/6676) Methylation pattern of CpG motifs is heritable in A.thaliana. Epigenetic mutation rate is five orders of magnitude (100000x) higher than the genetic mutation rate.
 
 https://www.spektrum.de/video/hirnerkrankungen-posttraumatische-belastungsstoerung-ptbs/1614068
