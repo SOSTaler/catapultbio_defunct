@@ -109,7 +109,8 @@ title: 'Of Interest'
 
 * [Biomineralization](https://en.wikipedia.org/wiki/Biomineralization), or also organic silica.
 
-* [40 Genes Coding Desirable Traits For Future Humans?](/doc/Protective-Alleles.html), the [Wired.com](https://www.wired.com/story/ideas-jason-pontin-genetic-engineering-for-mars/) article.
+* [40 Genes Coding Desirable Traits For Future Humans?](/doc/Protective-Alleles.html), the [Wired.com](https://www.wired.com/story/ideas-jason-pontin-genetic-engineering-for-mars/) article. compiled by the G.Church lab. Protective Alleles.
+* Online EpiGenome browser (Human,Mice,Zebrafish,...,Arabidopsis) (WashU) [http://epigenomegateway.wustl.edu/browser/](http://epigenomegateway.wustl.edu/browser/)
 
 * [Reprogramming Neurons into Dopaminergic
 Neuron-like Cells in the Adult Mouse Brain](/doc/Cell2018-InVivio-reprogrammingNeuralCells-to-DopaminergicNeurons.pdf), Parkinsons, Alzheimer, [Dopaminergic Cells](https://en.wikipedia.org/wiki/Dopaminergic_cell_groups)
