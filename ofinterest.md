@@ -162,3 +162,5 @@ https://www.spektrum.de/video/hirnerkrankungen-posttraumatische-belastungsstoeru
 * [Rapid, Low-Cost Detection of Water Contaminants Using Regulated In Vitro Transcription (with a PURE cell-free system)](/doc/619296.full.pdf),[Supp-1](/doc/619296-media-1.pdf)
 
 * Bioinformatics: Discovery of Transcription Factor networks [NetProphet_2.0](https://github.com/yiming-kang/NetProphet_2.0) for organisms where only 'light' data requirements are met.
+
+* Recording temporal data onto DNA with minutes resolution. doi: https://doi.org/10.1101/634790 
