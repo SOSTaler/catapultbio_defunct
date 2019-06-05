@@ -166,4 +166,4 @@ https://www.spektrum.de/video/hirnerkrankungen-posttraumatische-belastungsstoeru
 
 * Recording temporal data onto DNA with minutes resolution. doi: https://doi.org/10.1101/634790 
 
-* [A gall-forming insect manipulates hostplant phytohormone synthesis, concentrations, and signaling - 2019](/doc/658823.full.pdf). Supression of auxins and exogenous provision(!) of cytokinins.
+* [A gall-forming insect manipulates hostplant phytohormone synthesis, concentrations, and signaling - 2019](/doc/658823.full.pdf). Supression of auxins and exogenous provision(!) of cytokinins. 
