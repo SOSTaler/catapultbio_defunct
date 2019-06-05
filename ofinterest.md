@@ -165,3 +165,5 @@ https://www.spektrum.de/video/hirnerkrankungen-posttraumatische-belastungsstoeru
 * Bioinformatics: Discovery of Transcription Factor networks [NetProphet_2.0](https://github.com/yiming-kang/NetProphet_2.0) for organisms where only 'light' data requirements are met.
 
 * Recording temporal data onto DNA with minutes resolution. doi: https://doi.org/10.1101/634790 
+
+*[A gall-forming insect manipulates hostplant phytohormone synthesis, concentrations, and signaling - 2019](/doc/658823.full.pdf)
