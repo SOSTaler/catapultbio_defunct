@@ -169,3 +169,5 @@ https://www.spektrum.de/video/hirnerkrankungen-posttraumatische-belastungsstoeru
 * [A gall-forming insect manipulates hostplant phytohormone synthesis, concentrations, and signaling - 2019](/doc/658823.full.pdf). Supression of auxins,gibberellins,jasmonates and exogenous provision(!) of cytokinins. 
 
 * epigenetics : [Direct evidence for transport of RNA from the mouse brain to the germline and offspring-2019](/doc/DirectevidencefortransportofRNAfromthemousebraintothegermlineandoffspring-2019.pdf) 
+
+* epigenetics : [Epigenetic signatures of chronic social stress in stress-susceptible animals 2019](/doc/Epigeneticsignaturesofchronicsocialstressinstress-susceptibleanimals2019.pdf)
