@@ -173,4 +173,4 @@ https://www.spektrum.de/video/hirnerkrankungen-posttraumatische-belastungsstoeru
 * epigenetics : [Epigenetic signatures of chronic social stress in stress-susceptible animals 2019](/doc/Epigeneticsignaturesofchronicsocialstressinstress-susceptibleanimals2019.pdf)
 
 * MED: Sodium Butyrate (Sodium Salt of [butyric acid](https://shop.es-drei.de/saeuren/5764/buttersaeure-min.-99-food-grade?number=SAW2221001), easily made by reacting butyric acid + NaOH) is a HDAC Inhibitor [[1]](https://www.medchemexpress.com/Sodium-Butyrate.html), [[2]](https://www.selleckchem.com/products/Sodium-butyrate.html).
-* Sodium phenylbutyrate [[1]](https://www.selleckchem.com/products/sodium-phenylbutyrate.html)
+* Sodium phenylbutyrate [[1]](https://www.selleckchem.com/products/sodium-phenylbutyrate.html), [here](https://www.drugs.com/cdi/sodium-phenylbutyrate-tablets.html)
