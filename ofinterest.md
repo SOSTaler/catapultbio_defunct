@@ -177,3 +177,4 @@ https://www.spektrum.de/video/hirnerkrankungen-posttraumatische-belastungsstoeru
 
 * Databases of transposable elements. [https://omictools.com/transposable-element-data-category](https://omictools.com/transposable-element-data-category)
 
+* Fish transposable elements. [http://www.fishtedb.org](http://www.fishtedb.org/project/index?n=fishtedb). Includes TEs for the Amazon Molly! (Gynogenesis)
