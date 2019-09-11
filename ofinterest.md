@@ -178,3 +178,5 @@ https://www.spektrum.de/video/hirnerkrankungen-posttraumatische-belastungsstoeru
 * Databases of transposable elements. [https://omictools.com/transposable-element-data-category](https://omictools.com/transposable-element-data-category)
 
 * Fish transposable elements. [http://www.fishtedb.org](http://www.fishtedb.org/project/index?n=fishtedb). Can search for ORFs in the TEs (payload). Includes TEs for the Amazon Molly! (Gynogenesis)
+
+* MED: [Genomic characterization of PTSD](/doc/genomiCharacterizationOfPTSD-2019Sept.pdf)
