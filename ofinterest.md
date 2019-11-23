@@ -180,3 +180,5 @@ https://www.spektrum.de/video/hirnerkrankungen-posttraumatische-belastungsstoeru
 * Fish transposable elements. [http://www.fishtedb.org](http://www.fishtedb.org/project/index?n=fishtedb). Can search for ORFs in the TEs (payload). Includes TEs for the Amazon Molly! (Gynogenesis)
 
 * MED: [Genomic characterization of PTSD](/doc/genomiCharacterizationOfPTSD-2019Sept.pdf)
+
+* BIOINF: [Alignment-free sequence comparison methods - Benchmarks](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1755-7/figures/2).  Note the 'mash' method outperforms most others on bacterial genomes, assembled plant genomes, etc. It uses k-mer sketches (same as 'dashing', I believe)
